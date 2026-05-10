@@ -2,9 +2,13 @@
 # 🎧 FakeDeafen for Equicord & Vencord
 
 stable 541436 (28c300e) Host 1.0.9236 x64 (81687) Build Override: N/A Windows 11 64-bit (10.0.22631)
+
 Vencord 909df8b8
+
 Electron 37.6.0
+
 Chromium 138.0.7204.251
+
 
 ## ❗disclaimer❗ 
 
