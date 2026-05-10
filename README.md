@@ -1,6 +1,12 @@
 
 # 🎧 FakeDeafen for Equicord & Vencord
 
+## ❗disclaimer❗ 
+
+**<span style="color:yellow">ts was vibecoded and if you find any issues just use some coding ai like the google one to fix it. send it my code and describe the error and fix it.</span>**
+
+**this repo will not be maintained.**
+
 A user plugin for **Equicord** and **Vencord** that allows you to appear deafened (and muted) to others in a Discord voice channel, while you can still hear everything everyone is saying. 
 
 Unlike older plugins, this uses Discord's internal WebSockets to push your fake status **instantly** to the server, meaning you never have to leave and rejoin a voice channel for the effect to apply.
