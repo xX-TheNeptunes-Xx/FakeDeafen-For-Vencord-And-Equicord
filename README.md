@@ -3,7 +3,9 @@
 
 ## ❗disclaimer❗ 
 
-<span style="color:yellow">ts was vibecoded and if you find any issues just use some coding ai like the google one to fix it. send it my code and describe the error and fix it.</span>
+$\color{#58a6ff}{\text{ts was vibecoded and if you find any issues just use some coding ai like the google one to fix it.}}$
+$\color{#58a6ff}{\text{send it my code and describe the error and fix it.}}$
+
 
 **this repo will not be maintained.**
 
