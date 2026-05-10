@@ -88,7 +88,7 @@ const FakeDeafenButton = () => {
 export default definePlugin({
     name: "FakeDeafen",
     description: "Instantly fakes your deafen status. (Personal User Plugin)",
-    authors: [{ name: "YourName", id: 0n }],
+    authors: [{ name: "00.a3", id: 0n }],
     settings,
 
     // Places the button back safely in the Chat Bar where it doesn't break Discord's new UI
