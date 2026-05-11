@@ -40,13 +40,17 @@ If you run Vencord or Equicord from source, follow these steps:
 1. Open your terminal or command prompt.
 2. Navigate to your Vencord or Equicord source code folder:
    ```bash
-   cd path/to/Vencord/src/userplugins
+   cd documents/Vencord/src/userplugins
    # OR
-   cd path/to/Equicord/src/userplugins
+   cd documents/Equicord/src/userplugins
+   ```
+   **if userplugins folder is not made then go to vencord/src/ and paste this:**
+   ```bash
+   mkdir userplugins
    ```
 3. Clone this repository into the folder:
    ```bash
-   git clone https://github.com/xX-TheNeptunes-Xx/FakeDeafen-For-Vencord-And-Equicord FakeDeafen
+   git clone https://github.com/xX-TheNeptunes-Xx/FakeDeafen-For-Vencord-And-Equicord
    ```
 4. Rebuild your client:
    ```bash
