@@ -44,7 +44,7 @@ If you run Vencord or Equicord from source, follow these steps:
    # OR
    cd documents/Equicord/src/userplugins
    ```
-   **if userplugins folder is not made then go to vencord/src/ and paste this:**
+   **if userplugins folder is not made then go to vencord/src/ and paste this command in your terminal:**
    ```bash
    mkdir userplugins
    ```
